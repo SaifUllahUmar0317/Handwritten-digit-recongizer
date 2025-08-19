@@ -83,18 +83,6 @@ When prompted, paste the full path to your digit image.
 
 ---
 
-## 🖼 Example Prediction
-Input (custom digit):
-
-(Include an example image `sample_digit.png` in the repo and reference it here.)
-
-Output:
-```
-The digit is: 9
-```
-
----
-
 ## 🔧 Notes on Implementation (important)
 - The training script:
   - Loads `mnist_train.csv` and `mnist_test.csv`.
@@ -114,15 +102,13 @@ The digit is: 9
 
 ---
 
-## 🔮 Next Steps (as per your plan)
-- **Week 5 Day 6** → Visualize overfitting/underfitting by varying SVM hyperparameters (`C`, `gamma`). (You planned to do this after uploading — good.)
-- **Week 5 Day 7** → Tidy project and upload to GitHub (this README is part of that).
+## 🔮 Next Steps
 - **Future work** → Optionally implement a CNN for improved performance on custom handwritten digits.
 
 ---
 
 ## 📜 Requirements
-The project requires the following Python libraries (put these in `requirements.txt`):
+The project requires the following Python libraries:
 ```
 numpy
 pandas
@@ -138,13 +124,7 @@ joblib
 
 ## 👨‍💻 Author
 **Saifullah Umar**  
-- 🎓 BS Artificial Intelligence student at New Tech University Islamabad  
-- 💻 Machine Learning & Full-Stack Web Development Enthusiast  
-- 📍 Pakistan
+- 🎓 BS Artificial Intelligence student at Nutech University Islamabad, Pakistan 
+- 💻 Machine Learning Engineer
 
 ---
-
-If you want, I can also:
-- Save this file as **README.txt** or **README.md** in the repo folder for you.
-- Create a ready-to-upload `requirements.txt` file.
-- Convert the README into a plain `.txt` (Notepad) file and provide a download link.
