@@ -6,3 +6,6 @@ matplotlib
 pillow
 opencv-python
 joblib
+
+You should download the train and test datasets from google because they cannot be uploaded here.The links are below:
+https://www.kaggle.com/datasets/oddrationale/mnist-in-csv
